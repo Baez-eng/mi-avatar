@@ -1,5 +1,5 @@
 const mensaje =
-    "Hola, soy Saimon. Bienvenido a mi espacio de programación. Estoy listo para trabajar contigo.";
+    "Hola, soy clix . Bienvenido en que has hacer hoy. Estoy listo para trabajar contigo.";
 
 const avatar = document.getElementById("avatar");
 const texto = document.getElementById("texto");
